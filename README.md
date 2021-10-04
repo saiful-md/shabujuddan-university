@@ -1,6 +1,6 @@
 # ShobujUddan University
 
-This project was bootstrapped with [Create React App](https://shabujuddanuniversity.netlify.app/).
+Site Live link: (https://shabujuddanuniversity.netlify.app/).
 
 ## About this site
 1. This is the University site. 
