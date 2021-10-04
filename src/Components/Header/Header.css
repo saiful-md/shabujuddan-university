@@ -1,0 +1,12 @@
+
+.logo{
+    cursor: pointer;
+    font-style: italic;
+    
+}
+.logo .logo-s{
+    color: greenyellow;
+}
+.logo .logo-u{
+    color: tomato;
+}
