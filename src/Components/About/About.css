@@ -1,0 +1,8 @@
+.about{
+    width: 48%;
+}
+.about p{
+    text-align: justify;
+    color: black;
+    font-size: 18px;
+}

@@ -1,0 +1,23 @@
+.header-image {
+    width: 100%;
+    height: 100vh;
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    text-align: center;
+    
+}
+.header-image h1{
+    font-size: 50px;
+   
+    color: rgb(240, 7, 220)
+}
+.header-image h6{
+    font-size: 22px;
+    color:rgb(0, 0, 0);
+    margin: 0 30px;
+    font-weight: 400;
+}
